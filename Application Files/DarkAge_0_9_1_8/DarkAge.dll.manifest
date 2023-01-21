@@ -78,7 +78,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sFddYQ3DS0uLZFVEhfZAR6HOfzhAbHpBQg+rzkP6GQs=</dsig:DigestValue>
+      <dsig:DigestValue>aRne0uer+FyVMUAxj/jaq0rKIWco5reIb1fgT8EBR08=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DarkAge.exe" size="367616">
