@@ -14,14 +14,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Dark Age_0_9_1_9\Dark Age.dll.manifest" size="8412">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Dark Age_0_9_1_9\Dark Age.dll.manifest" size="8837">
       <assemblyIdentity name="Dark Age.exe" version="0.9.1.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KIo/tp8uQ9Xm/URWWNU3i+mo6lsEoxgqunm8vEk0vM0=</dsig:DigestValue>
+        <dsig:DigestValue>4F4NMSJFyVS3v1ImXvWci+bGAFH4Jxbl6pAs4DBHxr8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

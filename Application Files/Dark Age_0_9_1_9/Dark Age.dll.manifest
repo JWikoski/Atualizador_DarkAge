@@ -63,22 +63,22 @@
       <dsig:DigestValue>zYFbpJTw32/9X4tZWpQqTnPrAXEzxd8OVtOlCJgLQ7Q=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Dark Age.deps.json" size="9104">
+  <file name="Dark Age.deps.json" size="10654">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>kK2/bSWBNE/+Pe4P0rQ1Z1h9ZwX4UuqIS9vAHie+aqk=</dsig:DigestValue>
+      <dsig:DigestValue>9S1ypxwQ0z4qBdLaAIGZEwKXKNqaWESL7T0SqKgnkkY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Dark Age.dll" size="26305536">
+  <file name="Dark Age.dll" size="27510272">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RYNc2m1j3Xweky6G9oV7WRIfpSm/VeBfwcbmXfpoN1Y=</dsig:DigestValue>
+      <dsig:DigestValue>SHkcM2QroPybRo9dGO+Cu1QI8SWMQ/Rb3N9iGlTBYuY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Dark Age.exe" size="367616">
@@ -99,13 +99,13 @@
       <dsig:DigestValue>NiDVPch7SqLL1QtcqAuqPjoBfZ04y3L2kORCla/DP3c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FontAwesome.Sharp.dll" size="744960">
+  <file name="FontAwesome.Sharp.dll" size="761856">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9XrtaQvPVOSAuEmD5LMNqjpj6vlUsN6hS6q0ee5m0o4=</dsig:DigestValue>
+      <dsig:DigestValue>VfJMtfMMYd7qkHC3kP1xidMw35I5qyEXzg5Noh7xCy8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Icon.ico" size="241886">
@@ -117,40 +117,49 @@
       <dsig:DigestValue>4k6Wc+Y+PG6Sa+SBp4T2hotDoWN7s1wslBe/SqL29LY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Microsoft.Extensions.Configuration.Abstractions.dll" size="25216">
+  <file name="Microsoft.Extensions.Configuration.Abstractions.dll" size="30864">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5Otet+KKVUjNkE/hqcNWmt75H1K2VNuKPFagpRd6Ces=</dsig:DigestValue>
+      <dsig:DigestValue>3klF3CgzN0inTMYhjrWg9hkFbTNVxL4Jcpt8hkZIR+8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Microsoft.Extensions.Configuration.dll" size="39064">
+  <file name="Microsoft.Extensions.Configuration.dll" size="42624">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VnzOf46wzzu0RbpFWvH9ucTgr7tuELvow5MGgilRgtE=</dsig:DigestValue>
+      <dsig:DigestValue>++UISkmC677eMsvFPZ15pA/yiJ3OwKrkt8/dbRMWJ/A=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Microsoft.Extensions.Primitives.dll" size="40048">
+  <file name="Microsoft.Extensions.Logging.Abstractions.dll" size="63600">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>infvD3jN9bYmJxoRcs77i2tzHKkcXfx31P6LOKpR/bs=</dsig:DigestValue>
+      <dsig:DigestValue>/vKsvGE9k1NEQ/ksgwI4AdJfiIvMV/JffMAY2/Jumd8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Npgsql.dll" size="1138176">
+  <file name="Microsoft.Extensions.Primitives.dll" size="47224">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>u0mzM++0xpm4xgp2RWyMy3k0GxXBi/7JrLJAMGTv6AU=</dsig:DigestValue>
+      <dsig:DigestValue>QxHDBMxdGH9tA9+pyXrvUQSe2NPFc4PpkAuAv7f6Ud4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Npgsql.dll" size="1309696">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NLaw4UxR0tahb8j9lCDstYDbtLJy0kK6c9EqOND0kFc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="StackBlur.dll" size="10240">
