@@ -72,13 +72,13 @@
       <dsig:DigestValue>9S1ypxwQ0z4qBdLaAIGZEwKXKNqaWESL7T0SqKgnkkY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Dark Age.dll" size="27510272">
+  <file name="Dark Age.dll" size="27873792">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SHkcM2QroPybRo9dGO+Cu1QI8SWMQ/Rb3N9iGlTBYuY=</dsig:DigestValue>
+      <dsig:DigestValue>FD4bhk9hWoesg1sLppR2OgWWmpFJUNNCzPe2Gcp7lis=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Dark Age.exe" size="367616">
